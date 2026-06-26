@@ -28,7 +28,6 @@ Library-Management-System/
 │── src/
 │── lib/
 │── sql/
-│── README.md
 ```
 
 ## Database
