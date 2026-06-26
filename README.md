@@ -1,1 +1,1 @@
-# student-result-management
+# library management system
